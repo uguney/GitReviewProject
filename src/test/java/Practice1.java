@@ -5,6 +5,9 @@ public class Practice1 {
         System.out.println("work 1");
 
         // successfully pushed project to github
+            //created remote repo
+                //created connection between local and remote
+                    //pushed local commits to remote
 
 
     }
