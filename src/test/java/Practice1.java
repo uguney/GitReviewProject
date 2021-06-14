@@ -4,5 +4,8 @@ public class Practice1 {
 
         System.out.println("work 1");
 
+        // successfully pushed project to github
+
+
     }
 }
